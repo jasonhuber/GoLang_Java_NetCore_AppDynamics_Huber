@@ -1,0 +1,14 @@
+{
+  "controller": {
+    "host": "freedomfinancialnetwork-nonprod.saas.appdynamics.com",
+    "port": 443,
+    "account": "freedomfinancialnetwork-nonprod",
+    "password": "5pcf62m23b0f",
+    "ssl": false
+  },
+  "application": {
+    "name": "GoLangExample",
+    "tier": "NetCore_Caller",
+    "node": "NetCore1"
+  }
+}

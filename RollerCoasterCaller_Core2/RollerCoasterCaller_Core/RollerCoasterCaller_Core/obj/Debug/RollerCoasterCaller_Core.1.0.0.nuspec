@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RollerCoasterCaller_Core</id>
+    <version>1.0.0</version>
+    <authors>RollerCoasterCaller_Core</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/jahuber/Dropbox/Personal/Code/RollerCoasterCaller_Core/RollerCoasterCaller_Core/bin/Debug/net5.0/RollerCoasterCaller_Core.runtimeconfig.json" target="lib/net5.0/RollerCoasterCaller_Core.runtimeconfig.json" />
+    <file src="/Users/jahuber/Dropbox/Personal/Code/RollerCoasterCaller_Core/RollerCoasterCaller_Core/bin/Debug/net5.0/RollerCoasterCaller_Core.dll" target="lib/net5.0/RollerCoasterCaller_Core.dll" />
+  </files>
+</package>

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{331C1A7B-4B52-4AFD-8F63-0FCB841714F3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RollerCoasterCaller_Core/AppDynamicsConfig.json">
+    <Files>
+      <File FileName="RollerCoasterCaller_Core/Program.cs" Line="29" Column="1" />
+      <File FileName="RollerCoasterCaller_Core/AppDynamicsConfig.json" Line="7" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RollerCoasterCaller_Core" expanded="True">
+            <Node name="RollerCoasterCaller_Core" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RollerCoasterCaller__Core PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,17 @@
+{
+  "controller": {
+    "host": "*.saas.appdynamics.com",
+    "port": 443,
+    "account": "*",
+    "password": "",
+    "ssl": true
+  },
+  "application": {
+    "name": "GoLangExample",
+    "tier": "NetCore_Caller",
+    "node": "NetCore1"
+  },
+  "feature": [
+    "FULL_AGENT"
+  ]
+}

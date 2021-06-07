@@ -1,0 +1,8 @@
+/Users/jahuber/Dropbox/Personal/Code/RollerCoasterCaller_Core/RollerCoasterCaller_Core/bin/Release/net5.0/publish/RollerCoasterCaller_Core.AppDynamicsConfig.json
+/Users/jahuber/Dropbox/Personal/Code/RollerCoasterCaller_Core/RollerCoasterCaller_Core/bin/Release/net5.0/publish/RollerCoasterCaller_Core.dll
+/Users/jahuber/Dropbox/Personal/Code/RollerCoasterCaller_Core/RollerCoasterCaller_Core/bin/Release/net5.0/publish/RollerCoasterCaller_Core.deps.json
+/Users/jahuber/Dropbox/Personal/Code/RollerCoasterCaller_Core/RollerCoasterCaller_Core/bin/Release/net5.0/publish/RollerCoasterCaller_Core.runtimeconfig.json
+/Users/jahuber/Dropbox/Personal/Code/RollerCoasterCaller_Core/RollerCoasterCaller_Core/bin/Release/net5.0/publish/RollerCoasterCaller_Core.pdb
+/Users/jahuber/Dropbox/Personal/Code/RollerCoasterCaller_Core/RollerCoasterCaller_Core/bin/Release/net5.0/publish/AppDynamics.Agent.SDK.dll
+/Users/jahuber/Dropbox/Personal/Code/RollerCoasterCaller_Core/RollerCoasterCaller_Core/bin/Release/net5.0/publish/Newtonsoft.Json.dll
+/Users/jahuber/Dropbox/Personal/Code/RollerCoasterCaller_Core/RollerCoasterCaller_Core/bin/Release/net5.0/publish/runtimes/linux-x64/native/libappdprofiler.so

@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/usr/local/go/go/RollerCoasterCaller_Core2/RollerCoasterCaller_Core/RollerCoasterCaller_Core/RollerCoasterCaller_Core.csproj": {}
+  },
+  "projects": {
+    "/usr/local/go/go/RollerCoasterCaller_Core2/RollerCoasterCaller_Core/RollerCoasterCaller_Core/RollerCoasterCaller_Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/usr/local/go/go/RollerCoasterCaller_Core2/RollerCoasterCaller_Core/RollerCoasterCaller_Core/RollerCoasterCaller_Core.csproj",
+        "projectName": "RollerCoasterCaller_Core",
+        "projectPath": "/usr/local/go/go/RollerCoasterCaller_Core2/RollerCoasterCaller_Core/RollerCoasterCaller_Core/RollerCoasterCaller_Core.csproj",
+        "packagesPath": "/home/jason/.nuget/packages/",
+        "outputPath": "/usr/local/go/go/RollerCoasterCaller_Core2/RollerCoasterCaller_Core/RollerCoasterCaller_Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jason/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AppDynamics.AgentSDK": {
+              "target": "Package",
+              "version": "[20.11.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/128/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
